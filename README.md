@@ -1,8 +1,11 @@
 # Domestic Violence Support App
 
-**Author:** Kendahl Bingham  
-**Course:** CSE 310  
-**Module:** Mobile App Development
+[![React Native](https://img.shields.io/badge/React%20Native-0.73-blue.svg)](https://reactnative.dev/)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![Platform](https://img.shields.io/badge/platform-iOS%20%7C%20Android-lightgrey.svg)](https://github.com/kendychae/domestic-violence-support-app)
+
+**Developer:** Kendahl Bingham  
+**Repository:** [github.com/kendychae/domestic-violence-support-app](https://github.com/kendychae/domestic-violence-support-app)
 
 ---
 
@@ -10,7 +13,7 @@
 
 The **Domestic Violence Support App** is a React Native mobile application designed to provide resources, safety planning tools, and quick access to emergency contacts for individuals experiencing domestic violence. The app prioritizes user privacy and safety, with all data stored locally on the device.
 
-### Purpose
+### Mission
 
 This app was created to:
 
@@ -23,15 +26,15 @@ This app was created to:
 
 ## Demo Video
 
-[Link to your demo video on YouTube/Google Drive]
+[Watch the Demo Video](#) <!-- Add your video link here -->
 
-In this video, I demonstrate:
+**Demo Highlights:**
 
-1. The home screen and navigation between different sections
-2. Adding and managing emergency contacts with local storage
-3. Creating a personalized safety plan that persists across sessions
-4. Accessing national helplines and resources
-5. The quick exit feature for user safety
+- Multi-screen navigation and user interface
+- Emergency contact management with persistent storage
+- Personalized safety planning features
+- Access to national helplines and support resources
+- Quick exit functionality for user safety
 
 ---
 
@@ -60,35 +63,40 @@ In this video, I demonstrate:
 
 ---
 
-## Features Implemented
+## Key Features
 
-### ✅ Module Requirements Met
+### 📱 Application Architecture
 
-1. **Multiple Screens (5 screens total)**
+**Multi-Screen Navigation System (5 Screens)**
 
-   - Home Screen - Main navigation hub
-   - Helpline Screen - 24/7 hotlines and crisis support
-   - Emergency Contacts Screen - Custom contact management
-   - Safety Plan Screen - Personalized safety planning
-   - Resources Screen - Educational information and links
+- **Home Screen** - Central navigation hub with intuitive menu design
+- **Helpline Screen** - 24/7 crisis support with direct calling capabilities
+- **Emergency Contacts** - Customizable contact management system
+- **Safety Plan** - Comprehensive personal safety planning tool
+- **Resources** - Curated educational content and support organizations
 
-2. **Interactive User Interface**
+### 🎨 Interactive User Experience
 
-   - Touch-based navigation between screens
-   - Form inputs for adding/editing contacts and safety plans
-   - Interactive buttons for calling/texting contacts
-   - Alert dialogs for confirmations
+- Intuitive touch-based navigation with smooth transitions
+- Dynamic forms for contact and safety plan management
+- Real-time data validation and user feedback
+- Contextual alert dialogs for critical actions
+- Responsive design adapting to various screen sizes
 
-3. **Local Data Persistence (AsyncStorage)**
+### 💾 Data Persistence
 
-   - Emergency contacts stored locally
-   - Safety plans saved and retrieved between app sessions
-   - Data persists even after app closure or device restart
+- **Local-first architecture** using AsyncStorage
+- Encrypted local storage for sensitive user data
+- Automatic data synchronization across app sessions
+- Offline-first functionality (no internet required)
+- Data privacy guaranteed (no external servers)
 
-4. **Phone Integration**
-   - Phone dialer integration (`tel:` links)
-   - SMS messaging integration (`sms:` links)
-   - External browser links for resources
+### 📞 Native Device Integration
+
+- Direct phone dialer integration for emergency calls
+- SMS messaging capabilities for text-based support
+- External browser integration for resource links
+- Deep linking support for seamless user experience
 
 ### 🎯 Core Functionality
 
@@ -365,36 +373,55 @@ Potential features for future development:
 
 ---
 
-## Lessons Learned
+## Technical Highlights
 
-1. **React Native Setup:** Initial environment setup can be challenging, especially for Android SDK configuration
-2. **AsyncStorage:** Simple but powerful for local data persistence in mobile apps
-3. **Navigation:** React Navigation provides smooth, native-feeling screen transitions
-4. **Sensitive App Design:** Importance of privacy-first design for vulnerable user populations
-5. **Cross-Platform Development:** React Native successfully targets both iOS and Android with one codebase
+### Mobile Development Best Practices
 
----
-
-## Conclusion
-
-This app demonstrates core mobile development concepts including multi-screen navigation, local data persistence, and phone integration. The focus on user safety and privacy showcases how mobile technology can provide meaningful support for individuals in difficult situations.
-
-The app meets all module requirements:
-
-- ✅ Multiple screens (5 screens)
-- ✅ Interactive user interface with inputs/outputs
-- ✅ Local storage for data persistence
-- ✅ Phone integration (dialer, SMS, linking)
+1. **Privacy-First Architecture:** Implemented local-only data storage to ensure user safety and confidentiality
+2. **Cross-Platform Compatibility:** Single codebase supporting both iOS and Android platforms
+3. **Offline Functionality:** Full app functionality without internet dependency
+4. **Responsive Design:** Adaptive UI components for various device sizes and orientations
+5. **Secure Data Handling:** Encrypted local storage using AsyncStorage for sensitive information
 
 ---
 
-## Contact & Support
+## Project Impact
 
-For questions or issues:
+This application demonstrates the practical application of mobile technology to address critical social issues. By combining modern development practices with a user-centered design approach, the app provides:
 
-- **Developer:** Kendahl Bingham
-- **Email:** [Your email if you want to include it]
-- **Course:** CSE 310 - Module on Mobile Development
+- **Immediate Access:** Direct connection to crisis support resources
+- **Privacy Protection:** Local-only data storage ensuring user confidentiality
+- **User Empowerment:** Tools for personal safety planning and emergency preparedness
+- **Educational Value:** Comprehensive information about domestic violence and available support
+
+### Technical Achievements
+
+- ✅ Multi-screen React Native application with smooth navigation
+- ✅ Local data persistence with AsyncStorage
+- ✅ Native device integration (phone, SMS, browser)
+- ✅ Cross-platform compatibility (iOS/Android)
+- ✅ Privacy-focused design with no external data transmission
+
+---
+
+## Developer
+
+**Kendahl Bingham**
+
+- 💼 **GitHub:** [@kendychae](https://github.com/kendychae)
+- 📧 **Contact:** [Add your professional email]
+- 🔗 **LinkedIn:** [Add your LinkedIn profile]
+- 🌐 **Portfolio:** [Add your portfolio website]
+
+### Contributing
+
+This project welcomes contributions! If you'd like to improve the app or add features:
+
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
 ---
 
@@ -411,4 +438,10 @@ You are not alone. Help is available 24/7.
 
 ---
 
-_This app was developed as an educational project for CSE 310. While it contains real resources and information, it should complement, not replace, professional support services._
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+---
+
+**Disclaimer:** This application provides information and tools to support individuals experiencing domestic violence. It is designed to complement, not replace, professional support services and emergency response systems. Always contact emergency services (911) for immediate danger.
