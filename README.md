@@ -170,7 +170,6 @@ This app was created to:
    ```
 
 3. **For Android Development:**
-
    - Install [Android Studio](https://developer.android.com/studio)
    - Set up Android SDK and emulator
    - Configure environment variables (ANDROID_HOME)

@@ -97,16 +97,19 @@ Having AI assistance was incredibly helpful for quick questions and debugging.
 ## What Was Challenging
 
 ### Challenge 1: Understanding Async/Await
+
 - **Problem:** Struggled with asynchronous JavaScript for storage functions
 - **Solution:** Watched specific tutorial on async/await, practiced with simple examples first
 - **Lesson:** Sometimes need to step back and learn foundational concepts before moving forward
 
 ### Challenge 2: React Hooks (useState, useEffect)
+
 - **Problem:** Didn't understand when/why to use hooks
 - **Solution:** Read React documentation, experimented with different use cases
 - **Lesson:** Understanding core React concepts is essential for React Native
 
 ### Challenge 3: Navigation Between Screens
+
 - **Problem:** Confused about how navigation.navigate() worked
 - **Solution:** Drew diagrams of screen flow, studied navigation docs carefully
 - **Lesson:** Visual aids help understand abstract concepts like navigation stacks
@@ -141,6 +144,7 @@ Based on this experience, for my next mobile app I would:
 ## Resources That Were Most Helpful
 
 ### Top Resources:
+
 1. **React Native Documentation** - https://reactnative.dev/docs/getting-started
 2. **React Navigation** - https://reactnavigation.org/
 3. **Programming with Mosh (YouTube)** - Clear, beginner-friendly tutorials
@@ -163,12 +167,14 @@ How I managed my time effectively:
 ## Reflection
 
 ### What I'm Proud Of:
+
 - Created a fully functional app with real-world usefulness
 - Learned an entirely new technology (React Native) from scratch
 - Implemented data persistence successfully
 - Created comprehensive documentation
 
 ### What I'd Do Differently:
+
 - Start with a more detailed plan/wireframe
 - Set up GitHub from day one instead of at the end
 - Learn more about React basics before diving into React Native
@@ -179,6 +185,7 @@ How I managed my time effectively:
 ## Conclusion
 
 This project taught me that mobile development is achievable even for beginners when you:
+
 1. Break the problem into small pieces
 2. Use multiple learning resources
 3. Practice hands-on coding
