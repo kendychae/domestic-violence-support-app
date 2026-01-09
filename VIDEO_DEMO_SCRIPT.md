@@ -29,11 +29,16 @@
 
 ### **PART 2: Live Demo (3-4 minutes)**
 
-**What to Show:** Screen recording of your app running
+**What to Show:** Your phone screen with the app running
+
+**💡 Recording Options:**
+
+- **Easy:** Point your camera at your phone while using the app
+- **Better:** Use your phone's screen recording feature (iPhone: Control Center > Screen Recording; Android: Quick Settings > Screen Recorder)
 
 #### Screen 1: Home Screen (30 seconds)
 
-**Show:** Open the app, show the home screen
+**Show:** Your phone with the app open, showing the home screen
 
 **Say:**
 
@@ -259,13 +264,27 @@
 
 ---
 
-## 🛠️ Recommended Free Recording Tools
+## 🛠️ Recording Setup (Since You're Using Your Phone)
 
-**Windows:**
+**Option 1: Record Phone Screen Directly** ⭐ BEST QUALITY
 
-- **OBS Studio** (Free, powerful) - https://obsproject.com
-- **Xbox Game Bar** (Built into Windows 10/11) - Press `Win + G`
-- **PowerPoint** (If you have it) - Can record screen + webcam
+- **iPhone:** Swipe down from top right > Tap Screen Recording button > Tap to start
+- **Android:** Swipe down > Tap "Screen recorder" > Tap to start
+- Then separately record your face talking (or use a mirror/second camera to show your face)
+
+**Option 2: Point Camera at Phone** ✅ SIMPLER
+
+- Use your computer webcam or another camera
+- Point it at both your face AND your phone
+- Just talk while using the app on your phone
+
+**Option 3: Use OBS or Screen Recording Software**
+
+- Install OBS Studio (free) - https://obsproject.com
+- Or use Xbox Game Bar (Press `Win + G`)
+- Show your face in corner while demoing the phone
+
+**💡 Recommendation:** Option 1 gives best quality, Option 2 is quickest!
 
 **Upload To:**
 
