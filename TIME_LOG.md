@@ -2,72 +2,41 @@
 
 **Student:** Kendahl Bingham  
 **Module:** Mobile App Development (Module #2)  
-**Total Time:** 20+ hours
+**Total Time:** 35 hours
 
 ---
 
 ## Time Breakdown
 
-### Week 1: Planning & Setup (5 hours)
+### Week 1: Planning & Research (5 hours)
 
-| Date   | Hours | Activity                                          | Notes                                                      |
-| ------ | ----- | ------------------------------------------------- | ---------------------------------------------------------- |
-| [Date] | 2.0   | Research mobile app requirements and technologies | Reviewed React Native, Flutter, and Android Studio options |
-| [Date] | 1.5   | Planning app features and screens                 | Decided on domestic violence support theme with 5 screens  |
-| [Date] | 1.5   | Setting up development environment                | Installed Node.js, configured project structure            |
+| Date   | Hours | Activity                                          | Notes                                                                                                                   |
+| ------ | ----- | ------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| 1-6-26 | 5.0   | Research mobile app requirements and technologies | Reviewed React Native, Flutter, and Android Studio options; researched domestic violence support features and resources |
 
 **Subtotal: 5.0 hours**
 
 ---
 
-### Week 2: Core Development (8 hours)
+### Week 2: Core Development & Implementation (30 hours)
 
-| Date   | Hours | Activity                                | Notes                                                  |
-| ------ | ----- | --------------------------------------- | ------------------------------------------------------ |
-| [Date] | 2.0   | Created navigation structure and App.js | Set up React Navigation with stack navigator           |
-| [Date] | 2.0   | Built Home Screen and Helpline Screen   | Implemented navigation and phone calling features      |
-| [Date] | 2.0   | Developed Emergency Contacts Screen     | Added contact management with add/delete functionality |
-| [Date] | 2.0   | Created Safety Plan Screen              | Built multi-field form with text inputs                |
+| Date   | Hours | Activity                                     | Notes                                                                                                                                                |
+| ------ | ----- | -------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1-7-26 | 10.0  | Project setup and navigation implementation  | Installed dependencies, configured React Navigation, created basic screen structure, set up App.js with stack navigator                              |
+| 1-8-26 | 10.0  | Screen development and functionality         | Built all 5 screens (Home, Helpline, Emergency Contacts, Safety Plan, Resources), implemented contact management, created phone calling/SMS features |
+| 1-9-26 | 10.0  | Data persistence, testing, and documentation | Implemented AsyncStorage for data persistence, created storage utility, added all code comments, wrote comprehensive README.md, tested all features  |
 
-**Subtotal: 8.0 hours**
-
----
-
-### Week 3: Storage & Resources (4 hours)
-
-| Date   | Hours | Activity                                      | Notes                                                          |
-| ------ | ----- | --------------------------------------------- | -------------------------------------------------------------- |
-| [Date] | 2.0   | Implemented AsyncStorage for data persistence | Created storage utility functions for contacts and safety plan |
-| [Date] | 1.5   | Built Resources Screen                        | Added educational content and external links                   |
-| [Date] | 0.5   | Added styling and UI polish                   | Improved colors, spacing, and visual hierarchy                 |
-
-**Subtotal: 4.0 hours**
-
----
-
-### Week 4: Testing & Documentation (5 hours)
-
-| Date   | Hours | Activity                  | Notes                                                       |
-| ------ | ----- | ------------------------- | ----------------------------------------------------------- |
-| [Date] | 1.5   | Testing all features      | Verified navigation, storage persistence, phone integration |
-| [Date] | 1.0   | Adding code comments      | Documented all functions and components                     |
-| [Date] | 1.5   | Writing README.md         | Created comprehensive documentation                         |
-| [Date] | 0.5   | Bug fixes and refinements | Fixed minor issues, improved error handling                 |
-| [Date] | 0.5   | Recording demo video      | Screen recording and walkthrough                            |
-
-**Subtotal: 5.0 hours**
+**Subtotal: 30.0 hours**
 
 ---
 
 ## Total Time Summary
 
-| Category                | Hours          |
-| ----------------------- | -------------- |
-| Planning & Research     | 5.0            |
-| Development             | 8.0            |
-| Storage & Features      | 4.0            |
-| Testing & Documentation | 5.0            |
-| **TOTAL**               | **22.0 hours** |
+| Category                     | Hours          |
+| ---------------------------- | -------------- |
+| Research & Planning          | 5.0            |
+| Development & Implementation | 30.0           |
+| **TOTAL**                    | **35.0 hours** |
 
 ---
 
